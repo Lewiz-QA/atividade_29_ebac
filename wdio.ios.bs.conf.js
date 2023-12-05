@@ -18,13 +18,16 @@ exports.config = {
         products: [
             './test/specs/products.spec.js',
             './test/specs/search.spec.js'
+        ],
+        cart: [
+            './test/specs/cart.spec.js'
         ]
     },
     framework: 'mocha',
     capabilities: [
         {
             project: "Projeto Appium iOS BS",
-            build: 'EBAC Teste',
+            build: 'Atividade 19 EBAC',
             name: 'ebac_test',
             device: 'iPhone 12 Pro',
             os_version: "14",
