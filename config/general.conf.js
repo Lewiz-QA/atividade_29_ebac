@@ -1,5 +1,5 @@
 const { hooksConf } = require("./hooks.conf")
-const { reportersConf } = require("./reporters.conf")
+const { reportsConf } = require("./reports.conf")
 const { specsConf } = require("./specs.conf")
 
 let generalConf = {
@@ -11,7 +11,7 @@ let generalConf = {
     },
     maxInstances: 1,
     ...hooksConf,
-    ...reportersConf,
+    ...reportsConf,
     ...specsConf
 
 }

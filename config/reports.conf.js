@@ -37,4 +37,4 @@ let reportersConf = process.env.REPORT == 'true' ? {
     }
 } : {}
 
-module.exports = { reportersConf }
+module.exports = { reportsConf }
