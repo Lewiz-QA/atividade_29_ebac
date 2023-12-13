@@ -19,11 +19,11 @@ let capabilities = process.env.PLATFORM === 'android' ? {
     capabilities: [
         {
             platformName: "iOS",
-            platformVersion: "15.2",
             deviceName: "iPhone 13",
+            platformVersion: "15.2",
+            orientation: "PORTRAIT",
             automationName: "XCUITest",
             app: join(process.cwd(), './app/ios/loja-ebac.app'),
-            appWaitActivity: 'com.woocommerce.android.ui.login.LoginActivity',
             newCommandTimeout: 240
         }
     ]
