@@ -1,2 +1,2 @@
 "Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
-"broken","Fri Dec 29 02:17:00 UTC 2023","Fri Dec 29 02:17:14 UTC 2023","14281","","Deve realizar Checkout corretamente","","Deve realizar Checkout corretamente","Deve alertar ao tentar acessar Checkout sem itens no Carrinho","Deve alertar ao tentar acessar Checkout sem itens no Carrinho",""
+"passed","Fri Dec 29 02:20:53 UTC 2023","Fri Dec 29 02:20:56 UTC 2023","2215","","Deve realizar Checkout corretamente","","Deve realizar Checkout corretamente","Deve alertar ao tentar acessar Checkout sem itens no Carrinho","Deve alertar ao tentar acessar Checkout sem itens no Carrinho",""

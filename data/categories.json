@@ -1,26 +1,5 @@
 {
   "uid" : "4b4757e66a1912dae1a509f688f20b0f",
-  "children" : [ {
-    "name" : "Test defects",
-    "children" : [ {
-      "name" : "element (\"-ios predicate string: name CONTAINS 'Você precisa de itens no seu carrinho para fazer o checkout'\") still not displayed after 12000ms",
-      "children" : [ {
-        "name" : "Deve alertar ao tentar acessar Checkout sem itens no Carrinho",
-        "uid" : "98266b852d6cf4b3",
-        "parentUid" : "7f467382d26caa29386fcd7ff367d99c",
-        "status" : "broken",
-        "time" : {
-          "start" : 1703816220406,
-          "stop" : 1703816234687,
-          "duration" : 14281
-        },
-        "flaky" : false,
-        "newFailed" : false,
-        "parameters" : [ "iphone-14.0" ]
-      } ],
-      "uid" : "7f467382d26caa29386fcd7ff367d99c"
-    } ],
-    "uid" : "bdbf199525818fae7a8651db9eafe741"
-  } ],
+  "children" : [ ],
   "name" : "categories"
 }
