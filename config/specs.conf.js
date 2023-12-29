@@ -6,7 +6,7 @@ let specsConf = process.env.PLATFORM == 'android' ? {
     ]
 } : {
     specs: [
-        './test/specs/cart.spec.js'
+        './test/specs/checkout.spec.js'
     ]
 }
 
