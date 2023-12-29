@@ -1,11 +1,11 @@
 [ {
-  "uid" : "2ba7d46b0004a10d",
+  "uid" : "98266b852d6cf4b3",
   "name" : "Deve alertar ao tentar acessar Checkout sem itens no Carrinho",
   "time" : {
-    "start" : 1703815765271,
-    "stop" : 1703815767521,
-    "duration" : 2250
+    "start" : 1703816220406,
+    "stop" : 1703816234687,
+    "duration" : 14281
   },
-  "status" : "passed",
+  "status" : "broken",
   "severity" : "normal"
 } ]
