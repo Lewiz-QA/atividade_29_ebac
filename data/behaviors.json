@@ -2,13 +2,13 @@
   "uid" : "b1a8273437954620fa374b796ffaacdd",
   "children" : [ {
     "name" : "Deve alertar ao tentar acessar Checkout sem itens no Carrinho",
-    "uid" : "67690c8b3e59a972",
+    "uid" : "2ba7d46b0004a10d",
     "parentUid" : "b1a8273437954620fa374b796ffaacdd",
     "status" : "passed",
     "time" : {
-      "start" : 1703815602364,
-      "stop" : 1703815605052,
-      "duration" : 2688
+      "start" : 1703815765271,
+      "stop" : 1703815767521,
+      "duration" : 2250
     },
     "flaky" : false,
     "newFailed" : false,

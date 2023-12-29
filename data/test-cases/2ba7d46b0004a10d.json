@@ -1,12 +1,12 @@
 {
-  "uid" : "67690c8b3e59a972",
+  "uid" : "2ba7d46b0004a10d",
   "name" : "Deve alertar ao tentar acessar Checkout sem itens no Carrinho",
   "fullName" : "Deve realizar Checkout corretamente.Deve alertar ao tentar acessar Checkout sem itens no Carrinho",
   "historyId" : "f5e437f9d8f14ed3abe353c007582ffe",
   "time" : {
-    "start" : 1703815602364,
-    "stop" : 1703815605052,
-    "duration" : 2688
+    "start" : 1703815765271,
+    "stop" : 1703815767521,
+    "duration" : 2250
   },
   "description" : "",
   "descriptionHtml" : "",
@@ -18,11 +18,11 @@
     "status" : "passed",
     "steps" : [ ],
     "attachments" : [ {
-      "uid" : "529e5332786a25fc",
+      "uid" : "dfb81a22535dcb83",
       "name" : "Execution video",
-      "source" : "529e5332786a25fc.mp4",
+      "source" : "dfb81a22535dcb83.mp4",
       "type" : "video/mp4",
-      "size" : 0
+      "size" : 209
     } ],
     "parameters" : [ ],
     "stepsCount" : 0,
@@ -69,6 +69,6 @@
     "categories" : [ ],
     "tags" : [ ]
   },
-  "source" : "67690c8b3e59a972.json",
+  "source" : "2ba7d46b0004a10d.json",
   "parameterValues" : [ "iphone-14.0" ]
 }
