@@ -1,0 +1,22 @@
+{
+  "uid" : "83edc06c07f9ae9e47eb6dd1b683e4e2",
+  "children" : [ {
+    "name" : "Deve realizar Checkout corretamente",
+    "children" : [ {
+      "name" : "Deve alertar ao tentar acessar Checkout sem itens no Carrinho",
+      "uid" : "d66edb6f08a37b34",
+      "parentUid" : "59c703c5efeed319a3404591582f977c",
+      "status" : "passed",
+      "time" : {
+        "start" : 1703815086419,
+        "stop" : 1703815088751,
+        "duration" : 2332
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "iphone-14.0" ]
+    } ],
+    "uid" : "59c703c5efeed319a3404591582f977c"
+  } ],
+  "name" : "packages"
+}
