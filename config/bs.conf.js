@@ -15,7 +15,7 @@ let capabilities = process.env.PLATFORM === 'android' ? {
     capabilities: [{
         app: `${process.env.IOS_APP_ID}`,
         project: "Atividade Modulo 30 iOS BS",
-        build: 'EBAC Test iOS Modulo 30',
+        build: 'Modulo 30',
         name: 'ebac_test',
         device: 'iPhone 12 Pro',
         os_version: "14",
