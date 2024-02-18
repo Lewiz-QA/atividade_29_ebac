@@ -4,13 +4,13 @@
     "name" : "Deve realizar Checkout corretamente",
     "children" : [ {
       "name" : "Deve alertar ao tentar acessar Checkout sem itens no Carrinho",
-      "uid" : "e25df7645e65ebc",
+      "uid" : "725e46da4dd77d61",
       "parentUid" : "2ef2ec51029e79c922c3ee80913b30d3",
       "status" : "passed",
       "time" : {
-        "start" : 1703816453850,
-        "stop" : 1703816456065,
-        "duration" : 2215
+        "start" : 1708233857441,
+        "stop" : 1708233859630,
+        "duration" : 2189
       },
       "flaky" : false,
       "newFailed" : false,
